@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="hr.pmfst.proma.helloworld" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>PROMA - prva</name>
+    <description>
+        Prva aplikacija za objavu
+    </description>
+    <author email="proma.pmfst@gmail.com" href="http://www.pmfst.unist.hr/">
+        Goran Zaharija
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
